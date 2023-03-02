@@ -4,8 +4,8 @@
   Plugin Name: bulk_post_author_update
   Description: Your Plugin Description Here
   Version: 1.0
-  Author: Azizul Raju
-  Author URI: https://facebook.com/azizulDev
+  Author: PickPlugins
+  Author URI: https://www.pickplugins.com
 */
 
 if (!defined('ABSPATH')) exit; // Exit if accessed directly
